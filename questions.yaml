@@ -1,0 +1,8 @@
+questions:
+  - question_number: 1
+    name: Two Sum
+    link: https://leetcode.com/problems/two-sum/
+
+  - question_number: 118
+    name: Pascal's Triangle
+    link: https://leetcode.com/problems/pascals-triangle/
