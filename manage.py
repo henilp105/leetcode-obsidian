@@ -26,7 +26,6 @@ def generate_table():
         row_values[0] = str(row_values[0])
         row_values[1] = f"[{row_values[1]}]({row_values[2]})"
         row_values[2] = f"[Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/{row_values[0]}.py)"
-        print(row_values)
         markdown_table += "| " + " | ".join(row_values) + " |\n"
 
     with open(root / "README.md", "r+", encoding="utf-8") as fd:
