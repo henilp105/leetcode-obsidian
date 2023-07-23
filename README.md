@@ -1,4 +1,4 @@
-# leetcode-obsidian
+# leetcode Obsidian
 
 ## About
 

@@ -6,3 +6,11 @@ questions:
   - question_number: 118
     name: Pascal's Triangle
     link: https://leetcode.com/problems/pascals-triangle/
+
+  - question_number: 8
+    name: String to Integer (atoi)
+    link: https://leetcode.com/problems/string-to-integer-atoi/
+
+  - question_number: 4
+    name: Median of Two Sorted Arrays
+    link: https://leetcode.com/problems/median-of-two-sorted-arrays/
