@@ -14,3 +14,27 @@ questions:
   - question_number: 4
     name: Median of Two Sorted Arrays
     link: https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+  - question_number: 35
+    name: Search Insert Position
+    link: https://leetcode.com/problems/search-insert-position/
+
+  - question_number: 278
+    name: First Bad Version
+    link: https://leetcode.com/problems/first-bad-version/
+
+  - question_number: 101
+    name: Symmetric Tree
+    link: https://leetcode.com/problems/symmetric-tree/
+
+  - question_number: 202
+    name: Happy Number
+    link: https://leetcode.com/problems/happy-number/
+
+  - question_number: 584
+    name: Find Customer Referee
+    link: https://leetcode.com/problems/find-customer-referee/
+
+  - question_number: 595
+    name: Big Countries
+    link: https://leetcode.com/problems/big-countries/

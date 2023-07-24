@@ -1,0 +1,2 @@
+#sql Code
+SELECT NAME, population,AREA FROM WORLD WHERE AREA >=3000000 OR population>=25000000;
