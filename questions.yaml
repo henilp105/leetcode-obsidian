@@ -38,3 +38,23 @@ questions:
   - question_number: 595
     name: Big Countries
     link: https://leetcode.com/problems/big-countries/
+
+  - question_number: 48
+    name: Rotate Image
+    link: https://leetcode.com/problems/rotate-image/
+
+  - question_number: 12
+    name: Integer to Roman
+    link: https://leetcode.com/problems/integer-to-roman/
+
+  - question_number: 18
+    name: 4Sum
+    link: https://leetcode.com/problems/4sum/
+
+  - question_number: 342
+    name: Power of Four
+    link: https://leetcode.com/problems/power-of-four/
+
+  - question_number: 551
+    name: Student Attendance Record I
+    link: https://leetcode.com/problems/student-attendance-record-i/

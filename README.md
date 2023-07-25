@@ -18,3 +18,8 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/202.py) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/584.py) |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/595.py) |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/48.py) |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/12.py) |
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/18.py) |
+| 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/342.py) |
+| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/551.py) |
