@@ -23,3 +23,8 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/18.py) |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/342.py) |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/551.py) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/88.py) |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/50.py) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/15.py) |
+| 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/735.py) |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/207.py) |

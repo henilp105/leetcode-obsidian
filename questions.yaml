@@ -58,3 +58,23 @@ questions:
   - question_number: 551
     name: Student Attendance Record I
     link: https://leetcode.com/problems/student-attendance-record-i/
+
+  - question_number: 88
+    name: Merge Sorted Array
+    link: https://leetcode.com/problems/merge-sorted-array/
+
+  - question_number: 50
+    name: Pow(x, n)
+    link: https://leetcode.com/problems/powx-n/
+
+  - question_number: 15
+    name: 3Sum
+    link: https://leetcode.com/problems/3sum/
+
+  - question_number: 735
+    name: Asteroid Collision
+    link: https://leetcode.com/problems/asteroid-collision/
+
+  - question_number: 207
+    name: Course Schedule
+    link: https://leetcode.com/problems/course-schedule/
