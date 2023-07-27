@@ -78,3 +78,23 @@ questions:
   - question_number: 207
     name: Course Schedule
     link: https://leetcode.com/problems/course-schedule/
+
+  - question_number: 229
+    name: Majority Element II
+    link: https://leetcode.com/problems/majority-element-ii/
+
+  - question_number: 53
+    name: Maximum Subarray
+    link: https://leetcode.com/problems/maximum-subarray/
+
+  - question_number: 100
+    name: Same Tree
+    link: https://leetcode.com/problems/same-tree/
+
+  - question_number: 27
+    name: Remove Element
+    link: https://leetcode.com/problems/remove-element/
+
+  - question_number: 28
+    name: Find the Index of the First Occurrence in a String
+    link: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/

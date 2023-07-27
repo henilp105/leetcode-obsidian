@@ -28,3 +28,8 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/15.py) |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/735.py) |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/207.py) |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/229.py) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/53.py) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/100.py) |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/27.py) |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/28.py) |
