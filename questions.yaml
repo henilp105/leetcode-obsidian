@@ -98,3 +98,28 @@ questions:
   - question_number: 28
     name: Find the Index of the First Occurrence in a String
     link: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+
+  - question_number: 83
+    name: Remove Duplicates from Sorted List
+    link: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+
+  - question_number: 5
+    name: Longest Palindromic Substring
+    link: https://leetcode.com/problems/longest-palindromic-substring/
+
+  - question_number: 10
+    name: Regular Expression Matching
+    link: https://leetcode.com/problems/regular-expression-matching/
+
+  - question_number: 22
+    name: Generate Parentheses
+    link: https://leetcode.com/problems/generate-parentheses/
+
+  - question_number: 38
+    name: Count and Say
+    link: https://leetcode.com/problems/count-and-say/
+
+  - question_number: 79
+    name: Word Search
+    link: https://leetcode.com/problems/word-search/

@@ -33,3 +33,9 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/100.py) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/27.py) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/28.py) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/83.py) |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/5.py) |
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/10.py) |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/22.py) |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/38.py) |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/79.py) |
