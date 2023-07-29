@@ -4,6 +4,7 @@ Python Script to manage the Solutions and Logic of the LC Questions.
 
 from pathlib import Path
 import yaml
+import os
 
 root: Path = Path(__file__).parent
 """Make sure to run this script from the root of the repository."""
@@ -13,8 +14,14 @@ with open(root / "questions.yaml", "r", encoding="utf-8") as fd:
 
 
 def generate_table():
+    files = os.listdir("solutions")
     with open(root / "questions.yaml", "r", encoding="utf-8") as fd:
         questions = list(yaml.safe_load(fd).values())[0]
+    
+    for i in questions:
+        if f"{i['question_number']}.py" not in files:
+            print(f"Question {i['question_number']} not found.")
+            raise FileNotFoundError(f"{i['question_number']}.py")
 
     headers = ['Question number', 'Name', 'Solution link']
 

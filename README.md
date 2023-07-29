@@ -39,3 +39,8 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/22.py) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/38.py) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/79.py) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/110.py) |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/27.py) |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/101.py) |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/104.py) |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/108.py) |
