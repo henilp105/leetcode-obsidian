@@ -128,14 +128,6 @@ questions:
     name: Balanced Binary Tree
     link: https://leetcode.com/problems/balanced-binary-tree/
 
-  - question_number: 27
-    name: Remove Element
-    link: https://leetcode.com/problems/remove-element/
-
-  - question_number: 101
-    name: Symmetric Tree
-    link: https://leetcode.com/problems/symmetric-tree/
-
   - question_number: 104
     name: Maximum Depth of Binary Tree
     link: https://leetcode.com/problems/maximum-depth-of-binary-tree/
@@ -143,3 +135,23 @@ questions:
   - question_number: 108
     name: Convert Sorted Array to Binary Search Tree
     link: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+  - question_number: 189
+    name: Rotate Array
+    link: https://leetcode.com/problems/rotate-array/
+
+  - question_number: 605
+    name: Can Place Flowers
+    link: https://leetcode.com/problems/can-place-flowers/
+
+  - question_number: 55
+    name: Jump Game
+    link: https://leetcode.com/problems/jump-game/
+
+  - question_number: 146
+    name: LRU Cache
+    link: https://leetcode.com/problems/lru-cache/
+
+  - question_number: 238
+    name: Product of Array Except Self
+    link: https://leetcode.com/problems/product-of-array-except-self/

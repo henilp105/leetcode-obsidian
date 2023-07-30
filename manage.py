@@ -18,6 +18,18 @@ def generate_table():
     with open(root / "questions.yaml", "r", encoding="utf-8") as fd:
         questions = list(yaml.safe_load(fd).values())[0]
     
+    t,flag = list(),False
+    for i in questions:
+        t.append(i['question_number'])
+    
+    for i in set(t):
+        if t.count(i) > 1:
+            print(f"Duplicate Question {i}")
+            flag = True
+
+    if flag:
+        raise ValueError(f"Duplicate Questions in questions.yaml")
+    
     for i in questions:
         if f"{i['question_number']}.py" not in files:
             print(f"Question {i['question_number']} not found.")
@@ -28,7 +40,7 @@ def generate_table():
     markdown_table = "| " + " | ".join(headers) + " |\n"
     markdown_table += "| " + " | ".join(["---" for _ in headers]) + " |\n"
 
-    for item in questions:
+    for item in sorted(questions,key=lambda x: x['question_number']):
         row_values = list(item.values())
         row_values[0] = str(row_values[0])
         row_values[1] = f"[{row_values[1]}]({row_values[2]})"
