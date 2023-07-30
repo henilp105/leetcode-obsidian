@@ -25,6 +25,7 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/50.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/53.py) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/55.py) |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/68.py) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/79.py) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/83.py) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/88.py) |
