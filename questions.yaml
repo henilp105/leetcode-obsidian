@@ -179,3 +179,23 @@ questions:
   - question_number: 72
     name: Edit Distance
     link: https://leetcode.com/problems/edit-distance/
+
+  - question_number: 172
+    name: Factorial Trailing Zeroes
+    link: https://leetcode.com/problems/factorial-trailing-zeroes/
+
+  - question_number: 155
+    name: Factorial Trailing Zeroes
+    link: https://leetcode.com/problems/min-stack/
+
+  - question_number: 198
+    name: House Robber
+    link: https://leetcode.com/problems/house-robber/
+
+  - question_number: 200
+    name: Number of Islands
+    link: https://leetcode.com/problems/number-of-islands/
+
+  - question_number: 204
+    name: Count Primes
+    link: https://leetcode.com/problems/count-primes/

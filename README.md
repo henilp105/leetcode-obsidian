@@ -41,8 +41,13 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/110.py) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/118.py) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/146.py) |
+| 155 | [Factorial Trailing Zeroes](https://leetcode.com/problems/min-stack/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/155.py) |
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/172.py) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/189.py) |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/198.py) |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/200.py) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/202.py) |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/204.py) |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/207.py) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/229.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/238.py) |
