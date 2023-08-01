@@ -1,8 +1,13 @@
 class Solution:
-    def countPrimes(self, n):
-        primes = [i for i in range(2, n)]
-        for i in range(2, n):
-            for prime in primes:
-                if i ** (prime - 1) % prime != 1 and prime > i:
-                    primes.remove(prime)
-        return len(primes)
+    def countPrimes(self, n: int) -> int:
+        if n <= 2:
+            return 0
+        primes = [True] * n
+        primes[0] = primes[1] = False 
+        for number in range(2, n):
+            if primes[number]:
+                for multiple in range(2 * number, n, number):
+
+                    primes[multiple] = False
+                            
+        return sum(primes)
