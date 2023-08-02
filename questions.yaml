@@ -199,3 +199,23 @@ questions:
   - question_number: 204
     name: Count Primes
     link: https://leetcode.com/problems/count-primes/
+
+  - question_number: 461
+    name: Hamming Distance
+    link: https://leetcode.com/problems/hamming-distance/
+
+  - question_number: 414
+    name: Third Maximum Number
+    link: https://leetcode.com/problems/third-maximum-number/
+
+  - question_number: 227
+    name: Basic Calculator II
+    link: https://leetcode.com/problems/basic-calculator-ii/
+
+  - question_number: 237
+    name: Delete Node in a Linked List
+    link: https://leetcode.com/problems/delete-node-in-a-linked-list/
+
+  - question_number: 240
+    name: Search a 2D Matrix II
+    link: https://leetcode.com/problems/search-a-2d-matrix-ii/

@@ -49,10 +49,15 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/202.py) |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/204.py) |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/207.py) |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/227.py) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/229.py) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/237.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/238.py) |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/240.py) |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/278.py) |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/342.py) |
+| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/414.py) |
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/461.py) |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/551.py) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/584.py) |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/595.py) |
