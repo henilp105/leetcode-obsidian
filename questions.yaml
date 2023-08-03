@@ -219,3 +219,23 @@ questions:
   - question_number: 240
     name: Search a 2D Matrix II
     link: https://leetcode.com/problems/search-a-2d-matrix-ii/
+
+  - question_number: 75
+    name: Sort Colors
+    link: https://leetcode.com/problems/sort-colors/
+
+  - question_number: 29
+    name: Divide Two Integers
+    link: https://leetcode.com/problems/divide-two-integers/
+
+  - question_number: 31
+    name: Next Permutation
+    link: https://leetcode.com/problems/next-permutation/
+
+  - question_number: 56
+    name: Merge Intervals
+    link: https://leetcode.com/problems/merge-intervals/
+
+  - question_number: 33
+    name: Search in Rotated Sorted Array
+    link: https://leetcode.com/problems/search-in-rotated-sorted-array/

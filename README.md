@@ -19,18 +19,23 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/22.py) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/27.py) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/28.py) |
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/29.py) |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/31.py) |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/33.py) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/35.py) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/38.py) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/48.py) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/50.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/53.py) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/55.py) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/56.py) |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/59.py) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/61.py) |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/68.py) |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/71.py) |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/72.py) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/73.py) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/75.py) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/79.py) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/83.py) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/88.py) |
