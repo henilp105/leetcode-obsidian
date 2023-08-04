@@ -15,8 +15,13 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/10.py) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/12.py) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/15.py) |
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/16.py) |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/17.py) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/18.py) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/22.py) |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/23.py) |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/24.py) |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/25.py) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/27.py) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/28.py) |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/29.py) |

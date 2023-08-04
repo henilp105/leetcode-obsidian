@@ -239,3 +239,23 @@ questions:
   - question_number: 33
     name: Search in Rotated Sorted Array
     link: https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+  - question_number: 24
+    name: Swap Nodes in Pairs
+    link: https://leetcode.com/problems/swap-nodes-in-pairs/
+
+  - question_number: 23
+    name: Merge k Sorted Lists
+    link: https://leetcode.com/problems/merge-k-sorted-lists/
+
+  - question_number: 17
+    name: Letter Combinations of a Phone Number
+    link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+  - question_number: 16
+    name: 3Sum Closest
+    link: https://leetcode.com/problems/3sum-closest/
+
+  - question_number: 25
+    name: Reverse Nodes in k-Group
+    link: https://leetcode.com/problems/reverse-nodes-in-k-group/
