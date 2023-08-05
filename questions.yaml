@@ -259,3 +259,23 @@ questions:
   - question_number: 25
     name: Reverse Nodes in k-Group
     link: https://leetcode.com/problems/reverse-nodes-in-k-group/
+
+  - question_number: 181
+    name: Employees Earning More Than Their Managers
+    link: https://leetcode.com/problems/employees-earning-more-than-their-managers/
+
+  - question_number: 111
+    name: Minimum Depth of Binary Tree
+    link: https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
+  - question_number: 112
+    name: Path Sum
+    link: https://leetcode.com/problems/path-sum/
+
+  - question_number: 141
+    name: Linked List Cycle
+    link: https://leetcode.com/problems/linked-list-cycle/
+
+  - question_number: 175
+    name: Combine Two Tables
+    link: https://leetcode.com/problems/combine-two-tables/

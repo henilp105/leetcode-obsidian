@@ -51,6 +51,7 @@ def generate_table():
         data = ''.join(fd.readlines()[:8]) + markdown_table
         fd.seek(0)
         fd.write(data)
+    print(f"Total LC Questions: {len(questions)}")
 
 
 

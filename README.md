@@ -49,10 +49,15 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/104.py) |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/108.py) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/110.py) |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/111.py) |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/112.py) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/118.py) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/141.py) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/146.py) |
 | 155 | [Factorial Trailing Zeroes](https://leetcode.com/problems/min-stack/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/155.py) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/172.py) |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/175.py) |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/181.py) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/189.py) |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/198.py) |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/200.py) |
