@@ -279,3 +279,23 @@ questions:
   - question_number: 175
     name: Combine Two Tables
     link: https://leetcode.com/problems/combine-two-tables/
+
+  - question_number: 520
+    name: Detect Capital
+    link: https://leetcode.com/problems/detect-capital/
+
+  - question_number: 19
+    name: Remove Nth Node From End of List
+    link: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+  - question_number: 203
+    name: Remove Linked List Elements
+    link: https://leetcode.com/problems/remove-linked-list-elements/
+
+  - question_number: 41
+    name: First Missing Positive
+    link: https://leetcode.com/problems/first-missing-positive/
+
+  - question_number: 51
+    name: N-Queens
+    link: https://leetcode.com/problems/n-queens/

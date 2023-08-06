@@ -18,6 +18,7 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/16.py) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/17.py) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/18.py) |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/19.py) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/22.py) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/23.py) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/24.py) |
@@ -29,8 +30,10 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/33.py) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/35.py) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/38.py) |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/41.py) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/48.py) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/50.py) |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/51.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/53.py) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/55.py) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/56.py) |
@@ -62,6 +65,7 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/198.py) |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/200.py) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/202.py) |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/203.py) |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/204.py) |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/207.py) |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/227.py) |
@@ -73,6 +77,7 @@ This repository includes my solutions to Leetcode questions. If you find my solu
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/342.py) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/414.py) |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/461.py) |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/520.py) |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/551.py) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/584.py) |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [Python3 Solution](https://github.com/henilp105/leetcode-obsidian/blob/main/solutions/595.py) |
