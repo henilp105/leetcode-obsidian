@@ -299,3 +299,35 @@ questions:
   - question_number: 51
     name: N-Queens
     link: https://leetcode.com/problems/n-queens/
+
+  - question_number: 287
+    name: Find the Duplicate Number
+    link: https://leetcode.com/problems/find-the-duplicate-number/
+
+  - question_number: 209
+    name: Minimum Size Subarray Sum
+    link: https://leetcode.com/problems/minimum-size-subarray-sum/
+
+  - question_number: 630
+    name: Course Schedule III
+    link: https://leetcode.com/problems/course-schedule-iii/
+
+  - question_number: 447
+    name: Number of Boomerangs
+    link: https://leetcode.com/problems/number-of-boomerangs/
+
+  - question_number: 693
+    name: Binary Number with Alternating Bits
+    link: https://leetcode.com/problems/binary-number-with-alternating-bits/
+
+  - question_number: 363
+    name: Max Sum of Rectangle No Larger Than K
+    link: https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+
+  - question_number: 368
+    name: Largest Divisible Subset
+    link: https://leetcode.com/problems/largest-divisible-subset/
+
+  - question_number: 234
+    name: Palindrome Linked List
+    link: https://leetcode.com/problems/palindrome-linked-list/
